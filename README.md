@@ -39,7 +39,7 @@ The calculator includes comparisons with these popular models:
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://yourusername.github.io/llm-parameter-calculator/)
+[View Live Demo](https://otakuch.github.io/LLM-Parameter-Calculator-/)
 
 ## 🛠️ Installation & Usage
 
