@@ -2,8 +2,6 @@
 
 An interactive web application to visualize and calculate Large Language Model sizes in GB based on parameters and precision settings.
 
-![LLM Calculator Screenshot](images/screenshot.png)
-
 ## 🚀 Features
 
 - **Interactive Parameter Slider**: Adjust model parameters from 0.1B to 200B
